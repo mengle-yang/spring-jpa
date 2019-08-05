@@ -14,7 +14,7 @@ import org.springframework.data.repository.core.RepositoryMetadata;
 import org.springframework.data.repository.core.support.RepositoryFactorySupport;
 
 /**
- * @author liubin
+ * @author yangmengle
  *
  */
 public class DaoFactoryBean<R extends JpaRepository<T, I>, T, I extends Serializable>
